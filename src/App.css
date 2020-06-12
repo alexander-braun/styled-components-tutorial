@@ -1,0 +1,8 @@
+body {
+  background: #ebedf1;
+}
+
+.App {
+  display: flex;
+  align-items: center;
+}
